@@ -13,11 +13,11 @@ Determining the height of objects in a 2D image from their shadow and developing
 2.5 model, where the height of the selected objects will be the key to create the model. In this sense the project to be developed seeks to determine the height of predefined objects in a two-dimensional image from its shadow.
 Keywords: Shadows, Shapes, Convolutional neural network, Dataset, 2D, Height.
 
-
+https://easychair.org/publications/author/98V1
 
 Participation in the 5th International Conference on Advances in Signal Processing and Artificial Intelligence (ASPAI' 2023).
 https://lnkd.in/eq588A9t
-https://easychair.org/publications/author/98V1
+
 
 https://julianrenemunoz.github.io/Light-and-shadow-analysis/
 
