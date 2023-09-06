@@ -1,6 +1,6 @@
 # Light-and-shadow-analysis
+Research Light and Shadow Analysis
 
-Research Light and Shadow Analysis:  
 https://julianrenemunoz.github.io/Light-and-shadow-analysis/
 
 Estimation of Height of a Shape a 2D Image from its Shadow using Neural Networks
