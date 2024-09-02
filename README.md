@@ -38,5 +38,5 @@ Contact Linkedin: linkedin.com/in/julián-rené-muñoz-burbano-65827064
 Este trabajo está licenciado bajo la [Licencia Creative Commons Atribución-NoComercial 4.0 Internacional (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/legalcode). 
 
 ### Derechos de Autor
-© 2024 [Tu Nombre]. Todos los derechos reservados.
+© 2024 Julián René Muñoz Burbano. Todos los derechos reservados.
 
