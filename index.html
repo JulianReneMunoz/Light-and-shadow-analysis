@@ -41,7 +41,28 @@
           <div class="col-md-6 col-sm-6">
             <div class="header-content-right">
               <h1 class="display-4">Research:</h1>
-				<h2 class="text-justify">Introduction</h2>
+				<h2 class="text-justify">Abstract</h2>
+        <p class="text-justify"> In this research two neural network models were developed and implemented, a model 1, with a single input, the shadow 
+          and a model 2, with two inputs the figure and shadow. These were evaluated at 600, 800, 1,000, epochs respectively, focused on estimating the 
+          height of objects within a 2D image from their shadow. Data augmentation and regularization techniques were used in their development to prevent 
+          over-fitting and maintain model complexity. These were designed to predict heights within a specific range (1 to 10 cm) where both models have 
+          a balance between accuracy and generalization capacity and tolerance to error (0.02) in the predictions. For this purpose, a dataset was 
+          constructed with photographic images of shapes or objects, as well as their shadows projected from different angles and locations. 
+          The structure of the dataset consists of the name of the shape, the name of the shadow, the length of the shadow, the height of the shape 
+          and the angle of the light source. In this sense, the research focuses on the analysis of light and shadows, in different geometric shapes 
+           objects within a 2D image, where the projected shadow is the information to be used and with which we seek to determine the height of the 
+           shapes or objects. The main reason for this research is oriented to the possibility that, in the future, people with visual impairment, 
+           either total or partial, may use a tactile mechanism to define or differentiate an object, which has been recreated in three-dimensional 
+           form from a 2D image (photograph or painting). Therefore, it is essential that from a 2D image the objects to be represented in a 2.5D 
+           model are highlighted, where the height of the selected objects will be the key to create the model. In this sense, this paper presents a 
+            that allows to determine the height of predefined objects in a two-dimensional image from their shadow. A dataset was obtained that 
+            includes photographic images of shapes or objects with their projected shadows, a dataframe with the information of the dataset. 
+            In the two models (1 and 2) the combination of the visual characteristics (figure and shadow) with the dataframe, significantly 
+            improved the predictions in the two models, which potentially corrects ambiguities when interpreting the shape of an object. 
+            Based on the results, a comprehensive evaluation of the two models, which stand out for their balance between accuracy and 
+            generalization, was performed. These were analyzed with different evaluation metrics such as MAE, MSE, R², and Pearson correlation (𝑟) 
+            among others.</p>
+          <h2 class="text-justify">Introduction</h2>
               <p class="text-justify"> The proposed dataset was developed entirely for the purpose of meeting the requirements of the proposed model,
                 and due to the lack of one that meets them. It consists of images of the shapes or objects, shadows and intensities, which for this
                 research are a fundamental part and the essential resource to achieve the proposed objectives.</p>
