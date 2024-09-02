@@ -33,3 +33,10 @@ Contact Linkedin: linkedin.com/in/julián-rené-muñoz-burbano-65827064
 # Code
 - src, is the source code of the website
 - docs, have images, and text about this website
+## Licencia
+
+Este trabajo está licenciado bajo la [Licencia Creative Commons Atribución-NoComercial 4.0 Internacional (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/legalcode). 
+
+### Derechos de Autor
+© 2024 [Tu Nombre]. Todos los derechos reservados.
+
